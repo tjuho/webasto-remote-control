@@ -1,5 +1,5 @@
 //Remote control part of the project
-//uses HC-12 to send and receive between webasto and remote control part of the project
+//uses HC-12 to send and receive between webasto and remote control
 //autor Juho Taipale
 
 #include <SoftwareSerial.h>
